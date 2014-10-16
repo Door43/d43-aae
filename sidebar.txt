@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aae:home|Door43 (aae)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aae|d43-aae repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aae/archive/master.zip|d43-aae.zip]]
+
+**Recent Changes**
+{{changes>ns = aae}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aae|Ethnologue data]]
+
